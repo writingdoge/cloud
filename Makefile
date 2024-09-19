@@ -1,5 +1,5 @@
 qsort:qsort.cpp
-	gcc qsort.cpp -o qsort
+	g++ qsort.cpp -o qsort
 
 .PHONY: clean
 
